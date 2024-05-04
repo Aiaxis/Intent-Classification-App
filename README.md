@@ -13,8 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Aiaxis/crops-predicts.git
-cd crops-predicts
+git clone https://github.com/Aiaxis/Intent-Classification-App.git
+cd Intent-Classification-App
   ```
 2.**Create a virtual environment:**
 
