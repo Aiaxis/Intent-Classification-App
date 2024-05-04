@@ -1,3 +1,13 @@
+# Intent Classification App
+
+This repository contains a Streamlit app designed to classify text inputs into predefined intents. The app utilizes a machine learning model trained on a dataset of text samples labeled with corresponding intents. It is intended for demonstration purposes, showcasing a basic NLP application using a Support Vector Classifier and TF-IDF vectorization.
+
+## Features
+
+- **Text Input**: Users can enter text they wish to classify.
+- **Intent Classification**: The app classifies the text and displays the predicted intent.
+- **Confidence Score**: Alongside the intent, a confidence score is shown, indicating the certainty of the classification.
+- **Fallback Mechanism**: If the confidence score is below a certain threshold, the app provides a fallback response.
 
 
 ## Getting Started
